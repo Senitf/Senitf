@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsenitf&count_bg=%23352F78&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -6,6 +5,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Senitf&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=senitf)](https://solved.ac/senitf)
+
+<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEyIDUxMjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBvbHlnb24gc3R5bGU9ImZpbGw6IzIxOTZGMzsiIHBvaW50cz0iMzIsMCA3Mi44LDQ2MC44IDI1Niw1MTIgNDM5LjEzNiw0NjAuODMyIDQ4MCwwICIvPg0KPHBvbHlnb24gc3R5bGU9ImZpbGw6I0ZBRkFGQTsiIHBvaW50cz0iMzkyLjc2OCwxNTAuNjg4IDM4Ny42MTYsMjA4LjU3NiAzNzIuMDY0LDM4Mi4xMTIgMjU2LDQxNC4yMDggMjU1LjkwNCw0MTQuMjQgDQoJMTM5LjkwNCwzODIuMTEyIDEzMS44MDgsMjkxLjM2IDE4OC42NCwyOTEuMzYgMTkyLjg2NCwzMzguNDMyIDI1NS45MzYsMzU1LjQ1NiAyNTUuOTY4LDM1NS40MjQgMzE5LjEzNiwzMzguNCAzMjcuNzQ0LDI1OS45NjggDQoJMTI5LjA4OCwyNjAuNTEyIDEyMy40NTYsMjA2Ljg4IDMzMi41MTIsMjA0LjQxNiAzMzYuNzM2LDE0Ny4wMDggMTE3Ljg1NiwxNDcuNjE2IDExNC4xNzYsOTQuMjA4IDI1Niw5NC4yMDggMzk3LjgyNCw5NC4yMDggIi8+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8L3N2Zz4NCg==" />
 
 </div>
 
