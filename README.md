@@ -6,7 +6,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=senitf)](https://solved.ac/senitf)
 
-<i class="fab fa-html5"></i>
+아이콘 제작자 <a href="https://www.flaticon.com/kr/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/kr/" title="Flaticon"> www.flaticon.com</a>
 
 </div>
 
