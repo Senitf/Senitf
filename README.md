@@ -2,7 +2,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=senitf)](https://solved.ac/senitf)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Senitf)&show_icons=true&theme=dracula](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Senitf&show_icons=true&theme=dracula)(https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Senitf/Senitf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
