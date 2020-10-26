@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/senitf)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=senitf)](https://solved.ac/senitf)
 
 <!--
 **Senitf/Senitf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
