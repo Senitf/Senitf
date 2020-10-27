@@ -4,25 +4,25 @@
 
 <br>
 
-<img src="http://img.shields.io/badge/-C-44475a?style=flat&logo=C&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-C-282a36?style=flat&logo=C&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-C++-black?style=flat&logo= C++ &link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-C++-282a36?style=flat&logo= C++ &link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-Python-black?style=flat&logo=Python&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Python-282a36?style=flat&logo=Python&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-Django-black?style=flat&logo=Django&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Django-282a36?style=flat&logo=Django&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-React-black?style=flat&logo=React&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-React-282a36?style=flat&logo=React&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-Swift-black?style=flat&logo=Swift&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Swift-282a36?style=flat&logo=Swift&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-HTML5-black?style=flat&logo=HTML5&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-HTML5-282a36?style=flat&logo=HTML5&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-CSS3-black?style=flat&logo=CSS3&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-CSS3-282a36?style=flat&logo=CSS3&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-JavaScript-282a36?style=flat&logo=JavaScript&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Node.js-282a36?style=flat&logo=Node.js&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <br><br>
 
