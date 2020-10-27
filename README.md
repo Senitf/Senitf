@@ -22,9 +22,11 @@
 
 <img src="http://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<br><br>
+<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Senitf&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=senitf)](https://solved.ac/senitf)
 
