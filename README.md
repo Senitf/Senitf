@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="http://img.shields.io/badge/-C-black?style=flat&logo=C&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-C-44475a?style=flat&logo=C&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <img src="http://img.shields.io/badge/-C++-black?style=flat&logo= C++ &link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
