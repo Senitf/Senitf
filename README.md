@@ -14,6 +14,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<img 
+        src="http://img.shields.io/badge/-Python-black?style=flat&logo=Python&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Senitf&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=senitf)](https://solved.ac/senitf)
