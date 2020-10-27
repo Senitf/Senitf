@@ -10,9 +10,11 @@
 
 <a href="https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019">
     <img 
-        src="http://img.shields.io/badge/-cplusplus-black?style=flat&logo=cplusplus&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019"
+        src="http://img.shields.io/icons/-cplusplus-black?style=flat&logo=cplusplus&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+https://simpleicons.org/icons/cplusplus.svg
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Senitf&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
