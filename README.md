@@ -16,7 +16,7 @@
 
 <img src="http://img.shields.io/badge/-Django-282a36?style=flat&logo=Django&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<img src="http://img.shields.io/badge/-React-282a36?style=flat&logo=React-native&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-React_native-282a36?style=flat&logo=React&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <img src="http://img.shields.io/badge/-Swift-282a36?style=flat&logo=Swift&link=https://docs.microsoft.com/ko-kr/cpp/cpp/?view=vs-2019" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
