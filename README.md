@@ -1,4 +1,5 @@
-### Hi there 👋
+### 최대한 많은 맛을 보자
+
 
 <!--
 **Senitf/Senitf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
