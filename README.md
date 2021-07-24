@@ -4,3 +4,4 @@
 "C C++ Python HTML CSS JavaScript AJAX Django SwiftUI"
 ```
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=senitf)](https://solved.ac/senitf)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senitf)](https://github.com/anuraghazra/github-readme-stats)
